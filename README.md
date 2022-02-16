@@ -70,7 +70,7 @@ Note: "run-as \<package-name>" will automatically enter to app's local directory
 ```
 adb exec-out run-as com.example.app_name cat file.ext > D:/file.ext
 ```
-Note : You will copy "file.ext" out from app's local directory to your PC directory using "exec-out" command. (C:/ Path access needs Terminal as an Administrator)
+Note: You will copy "file.ext" out from app's local directory to your PC directory using "exec-out" command. (C:/ Path access needs Terminal as an Administrator)
 
 
 - Deleting file inside app's local dir
